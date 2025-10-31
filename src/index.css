@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+svg { shape-rendering: geometricPrecision; }
+html, body, #root { height: 100%; }
